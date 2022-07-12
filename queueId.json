@@ -1,0 +1,66 @@
+[
+    {
+        "queueId": 0,
+        "name": "Custom Game"
+    },
+    {
+        "queueId": 400,
+        "name": "Normal Draft"
+    },
+    {
+        "queueId": 420,
+        "name": "Ranked Solo/Duo"
+    },
+    {
+        "queueId": 430,
+        "name": "Normal Blind"
+    },
+    {
+        "queueId": 440,
+        "name": "Ranked Flex"
+    },
+    {
+        "queueId": 450,
+        "name": "ARAM"
+    },
+    {
+        "queueId": 700,
+        "name": "Clash"
+    },
+    {
+        "queueId": 830,
+        "name": "Co-op vs. AI Intro"
+    },
+    {
+        "queueId": 840,
+        "name": "Co-op vs. AI Beginner"
+    },
+    {
+        "queueId": 850,
+        "name": "Co-op vs. AI Intermediate"
+    },
+    {
+        "queueId": 900,
+        "name": "ARURF"
+    },
+    {
+        "queueId": 940,
+        "name": "Nexus Siege"
+    },
+    {
+        "queueId": 1020,
+        "name": "One for All"
+    },
+    {
+        "queueId": 1300,
+        "name": "Nexus Blitz"
+    },
+    {
+        "queueId": 1400,
+        "name": "Ultimate Spellbook"
+    },
+    {
+        "queueId": 1900,
+        "name": "URF"
+    }
+]
